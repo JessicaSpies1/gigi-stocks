@@ -1,0 +1,11 @@
+{
+  "generatedAt": null,
+  "date": null,
+  "headline": "Market summary not yet generated",
+  "bullets": [
+    "The daily AI market summary will appear here once the scheduled Claude Code routine is set up (build step 3).",
+    "It will explain what moved UK gilt yields that day — e.g. UK inflation prints, Bank of England decisions, US Treasury moves, or major risk events.",
+    "Until then, the yields, changes, charts, and liability impact above are all live from official data."
+  ],
+  "sources": []
+}

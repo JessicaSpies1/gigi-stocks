@@ -1,0 +1,9 @@
+{
+  "liabilityDurationYears": 10,
+  "liabilityValueGBP": 100000000,
+  "historyStartDate": "2025-01-01",
+  "series": {
+    "gilt10y": { "boeCode": "IUDMNPY", "label": "10-Year Gilt" },
+    "gilt20y": { "boeCode": "IUDLNPY", "label": "20-Year Gilt" }
+  }
+}
