@@ -1,11 +1,16 @@
 {
-  "generatedAt": null,
-  "date": null,
-  "headline": "Market summary not yet generated",
+  "generatedAt": "2026-07-22T20:21:21.576Z",
+  "date": "2026-07-20",
+  "headline": "UK gilt yields pushed to multi-year highs as fiscal and political uncertainty gripped the market.",
   "bullets": [
-    "The daily AI market summary will appear here once the scheduled Claude Code routine is set up (build step 3).",
-    "It will explain what moved UK gilt yields that day — e.g. UK inflation prints, Bank of England decisions, US Treasury moves, or major risk events.",
-    "Until then, the yields, changes, charts, and liability impact above are all live from official data."
+    "Long-dated gilts sold off again: the 20-year yield rose about 8bp on the day to 5.51% and the 10-year climbed to ~5.02% — near its highest since 2008 and the biggest weekly jump in roughly two months.",
+    "The main driver was UK fiscal and political uncertainty — speculation around a Labour leadership challenge to PM Keir Starmer and doubts over the government's \"fiscal flexibility\" pushed UK borrowing costs to a G7 high.",
+    "Firmer oil prices added to inflation worries and trimmed expectations for near-term Bank of England rate cuts (base rate 4.00%), reinforcing the upward pressure on yields.",
+    "Softer demand at recent gilt auctions (bid-to-cover near 3.4) signalled cooler appetite for UK debt, even as the FTSE 100 rose ~1.9% and sterling held around $1.34.",
+    "For DB pension schemes this is supportive for funding: higher long-dated yields reduce the present value of liabilities (see the estimated impact above)."
   ],
-  "sources": []
+  "sources": [
+    "Trading Economics",
+    "IG"
+  ]
 }
